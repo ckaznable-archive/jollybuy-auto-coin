@@ -2,17 +2,17 @@
   "background": {
     "service_worker": "script/background.js"
   },
-  "action": {
-    "default_icon": "icons/icon-128.png",
-    "default_popup": "options.html"
-  },
   "content_security_policy": {
     "script-src": "self",
     "object-src": "self"
   },
-  "permissions": [],
+  "permissions": [
+    "alarms",
+    "storage",
+    "scripting"
+  ],
   "host_permissions": [
-    "<all_urls>"
+    "https://www.jollybuy.com/*"
   ],
   "manifest_version": 3
 }

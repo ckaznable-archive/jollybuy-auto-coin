@@ -1,5 +1,5 @@
 {
-  "name": "browser-extension-template",
+  "name": "jollybuy-auto-coin",
   "version": "1.0.0",
   "description": "browser extension template supported manifest v3",
   "type": "module",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ckaznable/browser-extension-template.git"
+    "url": "git+https://github.com/ckaznable/jollybuy-auto-coin.git"
   },
   "author": "kami25565@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ckaznable/browser-extension-template/issues"
+    "url": "https://github.com/ckaznable/jollybuy-auto-coin/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.20.2",

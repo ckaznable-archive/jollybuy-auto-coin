@@ -18,9 +18,5 @@
     "16": "icons/icon-16.png"
   },
   "name": "__MSG_EXT_NAME__",
-  "options_ui": {
-    "page": "options.html",
-    "open_in_tab": true
-  },
   "default_locale" : "en"
 }

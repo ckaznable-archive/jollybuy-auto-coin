@@ -1,10 +1,10 @@
 {
 	"EXT_NAME" : {
-		"message" : "browser extension template",
+		"message" : "jollybuy auto coin collector",
 		"description" : "manifest name"
 	},
 	"EXT_DESC" : {
-		"message" : "browser extension template supported manifest v3",
+		"message" : "auto collect jollybuy coin everyday",
 		"description" : "manifest description"
 	}
 }
