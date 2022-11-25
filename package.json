@@ -1,6 +1,6 @@
 {
   "name": "jollybuy-auto-coin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "browser extension template supported manifest v3",
   "type": "module",
   "main": "src/script/background.js",
